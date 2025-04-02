@@ -4,3 +4,4 @@ numpy
 pandas
 pydantic
 tabulate
+scikit-learn
