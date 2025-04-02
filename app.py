@@ -31,7 +31,6 @@ class PredictionInput(BaseModel):
     name: str
     company: str
     year: int
-    Price: int
     kms_driven: int
     fuel_type: str
 
